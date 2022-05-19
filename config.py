@@ -1,0 +1,6 @@
+customhost = "employee.c66yygvccas1.us-west-2.rds.amazonaws.com"
+customuser = "nayak"
+custompass = "nayak123"
+customdb = "employee"
+custombucket = "nayakbucket12"
+customregion = "us-west-2"
